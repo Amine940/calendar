@@ -18,9 +18,19 @@
     "@angular/platform-browser": "^16.2.0",
     "@angular/platform-browser-dynamic": "^16.2.0",
     "@angular/router": "^16.2.0",
+    "@syncfusion/ej2-angular-buttons": "^25.1.35",
+    "@syncfusion/ej2-angular-calendars": "^25.1.37",
+    "@syncfusion/ej2-angular-dropdowns": "^25.1.37",
+    "@syncfusion/ej2-angular-inputs": "^25.1.37",
+    "@syncfusion/ej2-angular-navigations": "^25.1.37",
+    "@syncfusion/ej2-angular-schedule": "^25.1.37",
+    "@syncfusion/ej2-base": "^25.1.35",
+    "@syncfusion/ej2-calendars": "^25.1.37",
+    "@syncfusion/ej2-data": "^25.1.35",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.13.0"
+    "zone.js": "~0.13.0",
+    "@syncfusion/ej2-material-theme": "~25.1.37"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.2.13",
